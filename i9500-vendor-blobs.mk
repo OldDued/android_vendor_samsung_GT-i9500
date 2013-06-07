@@ -13,3 +13,4 @@
 # limitations under the License.
 
 PRODUCT_COPY_FILES += \
+        vendor/samsung/i9500/proprietary/lib/libril.so:system/lib/libril.so \
